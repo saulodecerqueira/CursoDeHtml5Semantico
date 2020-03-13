@@ -1,6 +1,6 @@
 *, *:before, *:after{margin: 0; padding: 0;}
 
-.conteiner{float: left; width: 100%;}
+.container{float: left; width: 100%;}
 .content{width: 80%; margin: 0 10%; padding: 40px 0;}
 
 .bg-gray{background-color: #444444; color: #fff}
